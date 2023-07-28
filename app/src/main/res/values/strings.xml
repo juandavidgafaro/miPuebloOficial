@@ -76,4 +76,31 @@
     <string name="sitioPrecio">Precio: 20.000</string>
 
 
+
+    <!-- Array de textos de lista de hoteles:  -->
+    <string-array name="ArrayHoteles1">
+        <item name="hNombre1">hola|hello</item>
+        <item name="hPrecio1">adiós|goodbye</item>
+    </string-array>
+
+    <string-array name="ArrayHoteles2">
+        <item name="hNombre2">hola|hello</item>
+        <item name="hPrecio2">adiós|goodbye</item>
+    </string-array>
+
+    <string-array name="ArrayHoteles3">
+        <item name="hNombre3">hola|hello</item>
+        <item name="hPrecio3">adiós|goodbye</item>
+    </string-array>
+
+    <string-array name="ArrayHoteles4">
+        <item name="hNombre4">hola|hello</item>
+        <item name="hPrecio4">adiós|goodbye</item>
+    </string-array>
+
+    <string-array name="ArrayHoteles5">
+        <item name="hNombre5">hola|hello</item>
+        <item name="hPrecio5">adiós|goodbye</item>
+    </string-array>
+
 </resources>

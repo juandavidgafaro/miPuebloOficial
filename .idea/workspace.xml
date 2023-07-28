@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c2171bb0-e2ac-43cf-810e-0729b70a9d2d" name="Changes" comment="" />
+    <list default="true" id="c2171bb0-e2ac-43cf-810e-0729b70a9d2d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/pruebapueblofinal/ListaSitios.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/pruebapueblofinal/ListaSitios.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/pruebapueblofinal/Sitios.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/pruebapueblofinal/Sitios.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/pruebapueblofinal/adaptadores/SitiosAdaptador.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/pruebapueblofinal/adaptadores/SitiosAdaptador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/foto_hotel1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/foto_hotel1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/foto_hotel2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/foto_hotel2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/foto_resta2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/foto_resta2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/foto_sitio2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/foto_sitio2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/foto_sitio4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/foto_sitio4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/foto_sitio5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/foto_sitio5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_sitios.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_sitios.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/molderestaurante.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/molderestaurante.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/moldesitio.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/moldesitio.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,10 +36,14 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2TBkVavV5hMRLSOfsqTV8oyfw4b" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -103,5 +127,28 @@
       <updated>1690523886965</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

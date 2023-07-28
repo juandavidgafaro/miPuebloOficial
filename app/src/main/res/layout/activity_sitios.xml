@@ -47,7 +47,7 @@
         app:layout_constraintVertical_bias="0.1" />
 
     <Button
-        android:id="@+id/botonvermashoteles"
+        android:id="@+id/botonvermasSitios"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:backgroundTint="#95a532"
