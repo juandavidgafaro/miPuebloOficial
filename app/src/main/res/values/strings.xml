@@ -1,0 +1,79 @@
+<resources>
+
+    <string name="bienvenida">Bienvenido</string>
+    <string name="inicio">Descubrenos</string>
+    <string name="bienvenidausuario">Bienvenido</string>
+
+    <string name="app_name">MiPueblo</string>
+
+    <string name="nombre_pueblo">CHINACOTA</string>
+    <string name="bt_hoteles">Hoteles</string>
+    <string name="bt_restaurantes">RESTAURANTES</string>
+    <string name="bt_sitios">SITIOS TURISTICOS</string>
+
+    <string name="btn_verMas">Ver mas</string>
+
+    <string name="titulo_hoteles">DESCUBRE NUESTROS HOTELES</string>
+    <string name="descripcionHoteles">
+        En Chinacota encontraras hoteles y parques agradables para cad uno de los
+        miembros de tu familia y amigos.
+
+        Al ser un lugar tan turistico contaras con un hospedaje con un excelente servicio y diponibilidad para
+        brindarte la mejor comodidad y que disfrutes de tus vacaciones con un hospedaje hecho para
+        tí.
+    </string>
+
+    <string name="titulo_restaurantes">QUE SE TE ANTOJA HOY ???</string>
+    <string name="descripcionRestaurantes">
+        En Chinacota encontraras nuevas experiencias con tu paladar pues tienes
+        que animarte a probar la diversidad gastronomica de este hermoso lugar.
+
+        Algunos de sus delicias gratronomicas son:
+        * Cacaitos chitareros: Este es un dulce derivado de la panela que junto con
+        otros ingredientes forman uno de los dulces mas consumido por la población
+        lugareña.
+    </string>
+
+    <string name="titulo_sitios">UN LUGAR POR CONOCER</string>
+    <string name="descripcionSitios">
+        Bienvenido a chinacota un pueblo muy acogedor para ti y tu familia,
+        lleno de muchos lugares por conocer disfruta de su clima en la parte de
+        cabecera del publo conocido como iscala, alli pordar gener un camping con tus
+        amigos y disfrutar de sus verdes montañas.
+    </string>
+
+    <string name="opcion1">Español</string>
+    <string name="opcion2">ingles</string>
+    <string name="opcion3">italiano</string>
+    <string name="opcion4">acerca de</string>
+
+    <!-- Textos de la parte de acerca de:  -->
+    <string name="camponombredev">Desarrollador: Juan David Gafaro Garcia</string>
+    <string name="descripcion_dev">Mucho gusto para mí fue un placer llevar a cabo el desarrollo
+    de este grandioso proyecto de android.
+    Se planteo desarrollar una app que estuviera enfocada a dar a conocer algunos de los pueblos aledaños
+    dando a conocer sus partes mas llamativas para futuros turistas; pues con ello se tendra un contexto
+    mas claro acerca del lugar el cual se va a visitar, obteniendo datos claves para disfrutar este momento
+    de la mejor manera.</string>
+    <string name="set_contacto">Si te interesa contratar mis servicios lo puedes haces a travez de:
+    Correo: davidGG123@gmail.com
+    Celular: 3225297564
+    </string>
+
+
+    <!-- Textos del componente de hoteles:  -->
+    <string name="nomHotel">LAS GALAXIAS</string>
+    <string name="precioHotel">Precio: 70.000</string>
+
+    <!-- Textos del componente de restaurantes:  -->
+    <string name="nomRestaurante">SABOR DE PUEBLO</string>
+    <string name="nomPlato">Arroz con pollo</string>
+    <string name="restPrecio">Precio: 7.000</string>
+
+    <!-- Textos del componente de sitios:  -->
+    <string name="nomSitio">PUEBLO VIEJO</string>
+    <string name="telSitio">Telefono: 3224256321</string>
+    <string name="sitioPrecio">Precio: 20.000</string>
+
+
+</resources>

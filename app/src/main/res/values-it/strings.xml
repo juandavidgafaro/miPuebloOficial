@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="bienvenida">Bienvenido</string>
+    <string name="inicio">Descubrenos</string>
+    <string name="bienvenidausuario">Bienvenido</string>
+
+    <string name="app_name">La mia gente</string>
+
+    <string name="nombre_pueblo">CINACOTA</string>
+    <string name="bt_hoteles">Alberghi</string>
+    <string name="bt_restaurantes">RISTORANTI</string>
+    <string name="bt_sitios">SITI TURISTICI</string>
+
+    <string name="btn_verMas">Vedi altro</string>
+
+    <string name="titulo_hoteles">SCOPRI I NOSTRI HOTEL</string>
+    <string name="descripcionHoteles">
+        A Chinacota troverai bei hotel e parchi per ognuno dei
+        membri della tua famiglia e dei tuoi amici.
+
+        Essendo un luogo così turistico avrai un alloggio con un ottimo servizio e disponibilità per
+        offrirvi il miglior comfort e godervi le vostre vacanze con un alloggio fatto apposta per voi
+        Voi.
+    </string>
+
+    <string name="titulo_restaurantes">COSA VUOI OGGI???</string>
+    <string name="descripcionRestaurantes">
+        In Chinacota troverai nuove esperienze con il tuo palato perché hai
+        per incoraggiarti a provare la diversità gastronomica di questo bellissimo posto.
+
+        Alcune delle sue delizie gastronomiche sono:
+        * Cacaitos chitareros: questo è un dolce derivato da panela che insieme a
+        altri ingredienti formano uno dei dolci più consumati dalla popolazione
+        Locale.
+    </string>
+
+    <string name="titulo_sitios">UN LUOGO DA CONOSCERE</string>
+    <string name="descripcionSitios">
+        Benvenuto a chinacota, una città molto accogliente per te e la tua famiglia,
+        pieno di molti luoghi da conoscere godersi il suo clima nella parte di
+        capo della città conosciuta come isscala, lì pordar ha generato un campeggio con il tuo
+        amici e godetevi le sue verdi montagne.
+    </string>
+
+    <string name="opcion1">spagnolo</string>
+    <string name="opcion2">Inglese</string>
+    <string name="opcion3">Italiano</string>
+    <string name="opcion4">Di</string>
+
+    <!-- Textos de la parte de acerca de:  -->
+    <string name="camponombredev">Sviluppatore: Juan David Gafaro Garcia</string>
+    <string name="descripcion_dev">Piacere di conoscerti è stato un piacere portare avanti lo sviluppo
+    di questo grande progetto Android.
+    È stato proposto di sviluppare un app incentrata sulla pubblicità di alcune delle città circostanti
+    rivelando le sue parti più suggestive per i futuri turisti; perché con quello avrai un contesto
+    più chiaro sul luogo che si andrà a visitare, ottenendo dati chiave per godersi questo momento
+    nel modo migliore.</string>
+    <string name="set_contacto">Se sei interessato ad assumere i miei servizi, puoi farlo tramite:
+    posta: davidGG123@gmail.com
+    cellulare: 3225297564
+    </string>
+
+    <!-- Textos del componente de hoteles:  -->
+    <string name="nomHotel">LE GALASSIE</string>
+    <string name="precioHotel">Prezzo: 70.000</string>
+
+    <!-- Textos del componente de restaurantes:  -->
+    <string name="nomRestaurante">SAPORI DI PAESE</string>
+    <string name="nomPlato">Riso al pollo</string>
+    <string name="restPrecio">Prezzo: 7.000</string>
+
+    <!-- Textos del componente de sitios:  -->
+    <string name="nomSitio">CITTÀ VECCHIA</string>
+    <string name="telSitio">Cellulare: 3224256321</string>
+    <string name="sitioPrecio">Prezzo: 20.000</string>
+</resources>
