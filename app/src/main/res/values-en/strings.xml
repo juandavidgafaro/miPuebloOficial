@@ -74,4 +74,74 @@
     <string name="telSitio">Telephone: 3224256321</string>
     <string name="sitioPrecio">Price: 20.000</string>
 
+
+    <!-- Array de textos de lista de hoteles:  -->
+    <string-array name="ArrayNombreHoteles">
+        <item name="hNombre1">HOTEL THE GOOD SLEEP</item>
+        <item name="hNombre2">HOTEL THE GALAXIES</item>
+        <item name="hNombre3">HOTEL THE STARS</item>
+        <item name="hNombre4">HOTEL THE DWARF</item>
+        <item name="hNombre5">THE CORNER HOTEL</item>
+
+    </string-array>
+
+    <string-array name="ArrayPreciosHoteles">
+        <item name="hPrecio1">50.000</item>
+        <item name="hPrecio2">48.6000</item>
+        <item name="hPrecio3">19.9200</item>
+        <item name="hPrecio4">45.800</item>
+        <item name="hPrecio5">89.000</item>
+    </string-array>
+
+    <!-- Array de textos de lista de restaurantes:  -->
+    <string-array name="ArrayNombresRestaurantes">
+        <item name="rNombre1">MOMS SEASONING</item>
+        <item name="rNombre2">Charcoal</item>
+        <item name="rNombre3">THE CORRAL</item>
+        <item name="rNombre4">the kid</item>
+        <item name="rNombre5">THE PEPITORIA</item>
+    </string-array>
+
+    <string-array name="ArrayNombresPLatosRestaurantes">
+        <item name="rNombre1">Chicken rice</item>
+        <item name="rNombre2">BBQ ribs</item>
+        <item name="rNombre3">Burgers</item>
+        <item name="rNombre4">Sweaty Kabro</item>
+        <item name="rNombre5">Fish</item>
+    </string-array>
+
+    <string-array name="ArrayPreciosRestaurantes">
+        <item name="rPrecio1">14.500</item>
+        <item name="rPrecio2">35.500</item>
+        <item name="rPrecio3">12.500</item>
+        <item name="rPrecio4">20.500</item>
+        <item name="rPrecio5">14.500</item>
+    </string-array>
+
+
+    <!-- Array de textos de lista de sitios:  -->
+    <string-array name="ArrayNombresSitios">
+        <item name="sNombre1">OLD TOWN</item>
+        <item name="sNombre2">THE LAGOON</item>
+        <item name="sNombre3">THE FARM</item>
+        <item name="sNombre4">THE GARDEN</item>
+        <item name="sNombre5">THE HALL OF ARTS</item>
+    </string-array>
+
+    <string-array name="ArrayTelefonosSitios">
+        <item name="sTelefono1">3024578564</item>
+        <item name="sTelefono2">3024578888</item>
+        <item name="sTelefono3">3024578004</item>
+        <item name="sTelefono4">3024578564</item>
+        <item name="sTelefono5">3024578774</item>
+    </string-array>
+
+    <string-array name="ArrayPreciosSitios">
+        <item name="sPrecio1">12.000</item>
+        <item name="sPrecio2">5.500</item>
+        <item name="sPrecio3">9.500</item>
+        <item name="sPrecio4">22.500</item>
+        <item name="sPrecio5">14.500</item>
+    </string-array>
+
 </resources>

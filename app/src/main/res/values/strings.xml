@@ -78,29 +78,73 @@
 
 
     <!-- Array de textos de lista de hoteles:  -->
-    <string-array name="ArrayHoteles1">
-        <item name="hNombre1">hola|hello</item>
-        <item name="hPrecio1">adiós|goodbye</item>
+    <string-array name="ArrayNombreHoteles">
+        <item name="hNombre1">HOTEL El BUEN DORMIR</item>
+        <item name="hNombre2">HOTEL LAS GALAXIAS</item>
+        <item name="hNombre3">HOTEL LAS ESTRELLAS</item>
+        <item name="hNombre4">HOTEL EL ENANO</item>
+        <item name="hNombre5">HOTEL LA ESQUINA</item>
+
     </string-array>
 
-    <string-array name="ArrayHoteles2">
-        <item name="hNombre2">hola|hello</item>
-        <item name="hPrecio2">adiós|goodbye</item>
+    <string-array name="ArrayPreciosHoteles">
+        <item name="hPrecio1">50.000</item>
+        <item name="hPrecio2">48.6000</item>
+        <item name="hPrecio3">19.9200</item>
+        <item name="hPrecio4">45.800</item>
+        <item name="hPrecio5">89.000</item>
     </string-array>
 
-    <string-array name="ArrayHoteles3">
-        <item name="hNombre3">hola|hello</item>
-        <item name="hPrecio3">adiós|goodbye</item>
+
+    <!-- Array de textos de lista de restaurantes:  -->
+    <string-array name="ArrayNombresRestaurantes">
+        <item name="rNombre1">LA SAZÓN DE MAMÁ</item>
+        <item name="rNombre2">El CARBON</item>
+        <item name="rNombre3">EL CORRAL</item>
+        <item name="rNombre4">El KABRITO</item>
+        <item name="rNombre5">LA PEPITORIA</item>
     </string-array>
 
-    <string-array name="ArrayHoteles4">
-        <item name="hNombre4">hola|hello</item>
-        <item name="hPrecio4">adiós|goodbye</item>
+    <string-array name="ArrayNombresPLatosRestaurantes">
+        <item name="rNombre1">Arroz con pollo</item>
+        <item name="rNombre2">Costillas BBQ</item>
+        <item name="rNombre3">Hamburguesas</item>
+        <item name="rNombre4">Kabro Sudado</item>
+        <item name="rNombre5">Pescado</item>
     </string-array>
 
-    <string-array name="ArrayHoteles5">
-        <item name="hNombre5">hola|hello</item>
-        <item name="hPrecio5">adiós|goodbye</item>
+    <string-array name="ArrayPreciosRestaurantes">
+        <item name="rPrecio1">14.500</item>
+        <item name="rPrecio2">35.500</item>
+        <item name="rPrecio3">12.500</item>
+        <item name="rPrecio4">20.500</item>
+        <item name="rPrecio5">14.500</item>
+    </string-array>
+
+
+    <!-- Array de textos de lista de sitios:  -->
+    <string-array name="ArrayNombresSitios">
+        <item name="sNombre1">PUEBLO VIEJO</item>
+        <item name="sNombre2">LA LAGUNA</item>
+        <item name="sNombre3">LA FINCA</item>
+        <item name="sNombre4">EL JARDIN</item>
+        <item name="sNombre5">EL SALON DE LA ARTES</item>
+    </string-array>
+
+    <string-array name="ArrayTelefonosSitios">
+        <item name="sTelefono1">3024578564</item>
+        <item name="sTelefono2">3024578888</item>
+        <item name="sTelefono3">3024578004</item>
+        <item name="sTelefono4">3024578564</item>
+        <item name="sTelefono5">3024578774</item>
+    </string-array>
+
+    <string-array name="ArrayPreciosSitios">
+        <item name="sPrecio1">12.000</item>
+        <item name="sPrecio2">5.500</item>
+        <item name="sPrecio3">9.500</item>
+        <item name="sPrecio4">22.500</item>
+        <item name="sPrecio5">14.500</item>
     </string-array>
 
 </resources>

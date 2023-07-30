@@ -74,4 +74,74 @@
     <string name="nomSitio">CITTÀ VECCHIA</string>
     <string name="telSitio">Cellulare: 3224256321</string>
     <string name="sitioPrecio">Prezzo: 20.000</string>
+
+
+    <!-- Array de textos de lista de hoteles:  -->
+    <string-array name="ArrayNombreHoteles">
+        <item name="hNombre1">HOTEL IL BUON DORMIRE</item>
+        <item name="hNombre2">HOTEL LE GALASSIE</item>
+        <item name="hNombre3">HOTEL LE STELLE</item>
+        <item name="hNombre4">ALBERGO IL NANO</item>
+        <item name="hNombre5">LALBERGO DANGOLO</item>
+
+    </string-array>
+
+    <string-array name="ArrayPreciosHoteles">
+        <item name="hPrecio1">50.000</item>
+        <item name="hPrecio2">48.6000</item>
+        <item name="hPrecio3">19.9200</item>
+        <item name="hPrecio4">45.800</item>
+        <item name="hPrecio5">89.000</item>
+    </string-array>
+
+    <!-- Array de textos de lista de restaurantes:  -->
+    <string-array name="ArrayNombresRestaurantes">
+        <item name="rNombre1">STAGIONATURA DELLA MAMMA</item>
+        <item name="rNombre2">Carbone</item>
+        <item name="rNombre3">IL CORRELLO</item>
+        <item name="rNombre4">il bambino</item>
+        <item name="rNombre5">LA PEPITORIA</item>
+    </string-array>
+
+    <string-array name="ArrayNombresPLatosRestaurantes">
+        <item name="rNombre1">Riso al pollo</item>
+        <item name="rNombre2">Costolette alla griglia</item>
+        <item name="rNombre3">Hamburger</item>
+        <item name="rNombre4">Kabro sudato</item>
+        <item name="rNombre5">Pescare</item>
+    </string-array>
+
+    <string-array name="ArrayPreciosRestaurantes">
+        <item name="rPrecio1">14.500</item>
+        <item name="rPrecio2">35.500</item>
+        <item name="rPrecio3">12.500</item>
+        <item name="rPrecio4">20.500</item>
+        <item name="rPrecio5">14.500</item>
+    </string-array>
+
+
+    <!-- Array de textos de lista de sitios:  -->
+    <string-array name="ArrayNombresSitios">
+        <item name="sNombre1">CITTÀ VECCHIA</item>
+        <item name="sNombre2">LA LAGUNA</item>
+        <item name="sNombre3">LA FATTORIA</item>
+        <item name="sNombre4">IL GIARDINO</item>
+        <item name="sNombre5">LA SALA DELLE ARTI</item>
+    </string-array>
+
+    <string-array name="ArrayTelefonosSitios">
+        <item name="sTelefono1">3024578564</item>
+        <item name="sTelefono2">3024578888</item>
+        <item name="sTelefono3">3024578004</item>
+        <item name="sTelefono4">3024578564</item>
+        <item name="sTelefono5">3024578774</item>
+    </string-array>
+
+    <string-array name="ArrayPreciosSitios">
+        <item name="sPrecio1">12.000</item>
+        <item name="sPrecio2">5.500</item>
+        <item name="sPrecio3">9.500</item>
+        <item name="sPrecio4">22.500</item>
+        <item name="sPrecio5">14.500</item>
+    </string-array>
 </resources>
